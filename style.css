@@ -1,0 +1,29 @@
+h1 {
+    color:red;
+    background-color: blue;
+    border: solid 5px;
+    padding: 10px;
+    margin: 100px;
+}
+input{
+    display: block;
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+}
+img{
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    align-items: 1000px;
+
+}
+div{
+    text-align: center;
+    padding: 5px;
+    margin-top: 10px;
+    border: solid 10px red;
+}
